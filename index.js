@@ -3,6 +3,8 @@ class Driver {
     this.name = name;
   }
   
+  startDate = new Date(startDate)
+  
   startDate () {
     return new Date(startDate);
   }
