@@ -16,8 +16,8 @@ class Route {
   }
   
   blocksTravelled(){
-    const hTravelled = this.endingLocation.horizontal - this.beginningLocation.horizontal
-    const vTravelled = this.endingLocation.vertical - this.beginningLocation.vertical
+    const hTravelled = this.endingLocation.horizontal - this.beginningLocation.horizontal;
+    const vTravelled = this.endingLocation.vertical - this.beginningLocation.vertical;
     return hTravelled + vTravelled;
   }
   
