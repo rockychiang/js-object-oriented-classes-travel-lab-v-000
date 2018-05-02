@@ -3,7 +3,7 @@ class Driver {
     this.name = name;
   }
   
-  start = new Date(startDate)
+  const start = new Date(startDate)
   
   startDate () {
     return start;
