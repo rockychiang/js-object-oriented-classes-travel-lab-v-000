@@ -5,7 +5,7 @@ class Driver {
   
   const startD = new Date(date)
   
-  startDate () {
+  startDate() {
     return startD;
   }
   
