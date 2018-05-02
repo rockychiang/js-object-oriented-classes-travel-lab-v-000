@@ -6,7 +6,7 @@ class Driver {
   startDate = new Date(startDate)
   
   startDate () {
-    return new Date(startDate);
+    return startDate;
   }
   
   yearsExperienceFromBeginningOf(year){
