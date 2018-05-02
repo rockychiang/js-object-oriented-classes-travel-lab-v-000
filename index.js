@@ -5,10 +5,6 @@ class Driver {
   
   const startD = new Date(date)
   
-  startDate() {
-    return startD;
-  }
-  
   yearsExperienceFromBeginningOf(year) {
     
   }
