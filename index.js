@@ -16,7 +16,7 @@ class Route {
   }
   
   blocksTravelled(){
-    
+    const hTravelled = this.endingLocation - this.beginningLocation
   }
   
   estimatedTime(peakHours){
