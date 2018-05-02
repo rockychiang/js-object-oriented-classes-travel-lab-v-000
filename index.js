@@ -18,7 +18,7 @@ class Route {
     
   }
   
-  estimatedTime(){
+  estimatedTime(peakHours){
     
   }
 }
