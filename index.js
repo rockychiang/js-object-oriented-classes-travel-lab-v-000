@@ -10,7 +10,10 @@ class Driver {
 }
 
 class Route {
-  constructor(beginningLocation, endingLocation)
+  constructor(beginningLocation, endingLocation){
+    
+  }
+  
   blocksTravelled(){
     
   }
