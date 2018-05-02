@@ -23,6 +23,10 @@ class Route {
   }
   
   estimatedTime(peakHours){
-    
+    if (peakHours) {
+      return 
+    } else {
+      
+    }
   }
 }
